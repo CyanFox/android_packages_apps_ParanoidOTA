@@ -34,7 +34,7 @@ import com.paranoid.paranoidota.updater.Updater.PackageInfo;
 
 public class PaServer implements Server {
 
-    private static final String URL = "http://api.paranoidandroid.co/updates/%s";
+    private static final String URL = "http://www.cyanfox-rom.com/updates-api/%s";
 
     private String mDevice = null;
     private String mError = null;
